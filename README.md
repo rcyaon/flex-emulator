@@ -42,17 +42,3 @@ The GitHub action will automatically build the ASIC files using [LibreLane](http
   - Bluesky [@tinytapeout.com](https://bsky.app/profile/tinytapeout.com)
  
   ---
-
-```
-Hi everyone,
-
-Quick update: 8x4 tiles are now confirmed for the March 2027 CMOS5L shuttle, and Tiny Tapeout says the tile sizes are final. The main branch of the Tiny Tapeout IHP Verilog template now targets CMOS5L, so you no longer need the cmos5l branch. Just set the tile size in info.yaml to 8x4.
-
-We've also added an FAQ to the competition blog post, with answers to the questions we've been getting about entering, design and judging:
-https://blog.janestreet.com/protocol-emulator-asic-competition/#faq
-
-The deadline is still January 18th, 2027. If your question isn't covered there, reply to this email or reach us at asic-competition@janestreet.com.
-
-Thanks,
-Ben and Anish
-```
